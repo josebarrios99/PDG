@@ -70,7 +70,7 @@ function previus() {
 
 
 // script de la navegacipon por tabs
-let tabs = Array.prototype.slice.apply(document.querySelectorAll('.tabs-item'))
+/*let tabs = Array.prototype.slice.apply(document.querySelectorAll('.tabs-item'))
 let panels = Array.prototype.slice.apply(document.querySelectorAll('.tab-panel'))
 
 document.getElementById('tabs').addEventListener('click', e => {
@@ -83,5 +83,5 @@ document.getElementById('tabs').addEventListener('click', e => {
     }
 
 })
-
+*/
 
