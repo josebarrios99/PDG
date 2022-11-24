@@ -104,6 +104,7 @@ img {
 
 .img-full {
   width: 60%;
+  margin-left: 120px;
   overflow: hidden;
   -o-object-fit: cover;
      object-fit: cover;
@@ -1121,7 +1122,7 @@ blockquote p {
 
 /* ---Price Box--- */
 .price-box span {
-  font-size: 10px;
+  font-size: 18px;
 }
 .price-box span.new-price {
   color: #B8C763;
